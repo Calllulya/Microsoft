@@ -1,0 +1,28 @@
+body{
+    font-family: system-ui;
+    font-size: small;
+}
+li {
+    list-style: none; 
+    display: inline; /* Отображать как строчный элемент */
+    margin-right: 5px; /* Отступ слева */
+    padding: 3px; /* Поля вокруг текста */ 
+    margin: 8px;
+}
+ul {
+    margin: 0; /* Обнуляем значение отступов */
+    padding: 4px; /* Значение полей */
+   }
+.main_ul {  
+    margin-left: 13px;
+}
+.first {
+    display: flex; 
+}
+.img_microsoft {
+width: 108px !important; 
+margin: 2px !important;
+padding: 0px !important;
+margin-left: 69px !important;
+margin-top: 6 !important;
+}
